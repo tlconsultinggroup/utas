@@ -1,0 +1,13 @@
+h5netcdf
+xarray
+netCDF4
+siphon
+fsspec
+requests
+aiohttp
+dask
+zarr
+pyarrow
+geopandas
+dask-geopandas
+s3fs
